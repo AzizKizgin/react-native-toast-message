@@ -1,6 +1,6 @@
 {
   "name": "@aziz_kizgin/react-native-toast-message",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Native Toast Message",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
