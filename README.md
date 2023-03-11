@@ -83,6 +83,21 @@ const styles = StyleSheet.create({
 });
 ```
 
+you can use color prop for toast message color or you can use custom color rgb, rgba or hex
+
+```javascript
+showToast({
+  message: "Hello There!",
+  color: "#d9559d",
+  duration: 2000,
+  position: "bottom",
+  textStyle: {
+    fontSize: 20,
+    color: "white",
+  },
+});
+```
+
 ## License
 
 MIT
