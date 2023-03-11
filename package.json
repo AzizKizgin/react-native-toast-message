@@ -1,0 +1,36 @@
+{
+  "name": "@aziz_kizgin/react-native-toast-message",
+  "version": "1.0.1",
+  "description": "React Native Toast Message",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-toast-message",
+    "react-native-toast"
+  ],
+  "author": "Aziz Kızgın",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzizKizgin/react-native-toast-message.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AzizKizgin/react-native-toast-message/issues"
+  },
+  "homepage": "https://github.com/AzizKizgin/react-native-toast-message#readme",
+  "dependencies": {
+    "react-native-reanimated": "^3.0.0",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-native": "^0.71.3"
+  }
+}
