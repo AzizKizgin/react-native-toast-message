@@ -12,6 +12,8 @@ or
 yarn add @aziz_kizgin/react-native-toast-message
 ```
 
+![](https://user-images.githubusercontent.com/65086568/224658477-9d8ecb47-b0ac-4117-ac07-c4386cae75d9.gif)
+
 ## Usage
 
 you should wrap your app with ToastMessageProvider
